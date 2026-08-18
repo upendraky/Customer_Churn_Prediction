@@ -1,0 +1,15 @@
+Feature,Importance
+cat__ContractType_Month-to-Month,0.22565980307854008
+num__Tenure,0.2049644534702766
+cat__TechSupport_Yes,0.14083363813758634
+cat__TechSupport_No,0.12812781972515663
+num__MonthlyCharges,0.09042587834631065
+num__TotalCharges,0.0794612698207715
+cat__ContractType_One-Year,0.04798601355175172
+cat__InternetService_,0.032745390097480155
+cat__ContractType_Two-Year,0.02724497524202584
+num__Age,0.010580261941480299
+cat__InternetService_Fiber Optic,0.005583214730292785
+cat__InternetService_DSL,0.0031709664700122773
+cat__Gender_Female,0.0018413458069700232
+cat__Gender_Male,0.0013749695813451922
